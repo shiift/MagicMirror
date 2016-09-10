@@ -77,7 +77,6 @@ var config = {
                         header: 'Weather Forecast',
                         config: {
                                 location: 'Stamford',
-                                units: 'metric',
                                 locationID: '4843564',  //ID from http://www.openweathermap.org
                                 appid: 'd3b5893f2cb55a1905c4eddb7594e060',
                         }
@@ -97,7 +96,6 @@ var config = {
                         }
                 },
         ]
-
 };
 
 /*************** DO NOT EDIT THE LINE BELOW ***************/
